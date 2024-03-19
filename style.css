@@ -1,0 +1,26 @@
+.header{
+    background-color: #1f2937;
+   
+}
+.logo img{
+    border-radius: 80%;
+    display: flex;
+    padding: 5px;
+}
+    
+.links{
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+   
+    
+}
+.links a {
+    color: white;
+
+}
+.header-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
