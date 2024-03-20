@@ -211,4 +211,23 @@ button {
 button:hover {
     background-color: #0d9aa1; /* Button background color on hover */
 }
+/* footer*/
+ 
+.footer {
+    background-color:  #1f2937;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    margin: 0;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
 
